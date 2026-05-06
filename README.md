@@ -42,8 +42,9 @@ This repository focuses on **Structured Data Ingestion** for Retrieval-Augmented
    pip install -U langchain-community python-dotenv
 
 3. **Add a Sample CSV:**
+
    Place a sample dataset (e.g., dataset.csv) in the root directory.
 
-4. **Run the Implementation:**
+5. **Run the Implementation:**
    ```bash
    python csv_loader.py   
