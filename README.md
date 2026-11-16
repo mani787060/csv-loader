@@ -226,13 +226,6 @@ The current implementation provides a basic introduction to CSV ingestion. It ca
 - Integrating a vector database for semantic retrieval.
 - Building a complete CSV-based RAG application.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
-
 ---
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
